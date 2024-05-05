@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="#">
+  <img align="right" style="display: inline-block; margin: 5px" src="https://github-stats.ubrong.com/api?username=arkueid&show_icons=true&theme=default" />   
+</a>
+
+I'm Arkueid (inspired by [Arcueid Brunestud](https://en.wikipedia.org/wiki/Tsukihime)).
+- :tv:**A**nime fan.
+- ⚡**R**eceptive to new ideas.
+- :revolving_hearts:**K**ind to others.
+- :sparkles:**E**nthusiastic about coding.
+- 🤔**I**ntroversive at times.
+- :yum:**D**aydreamer always.
+
+
+
+
+
+
