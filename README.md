@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 I'm Arkueid (inspired by [Arcueid Brunestud](https://en.wikipedia.org/wiki/Tsukihime)).
 - :tv:**A**nime fan.
 - ⚡**R**eceptive to new ideas.
-- :revolving_hearts:**K**ind to others.
+- :heart:**K**een on cyber waifus.
+- :smile_cat:**U**ser of github.
 - :sparkles:**E**nthusiastic about coding.
 - 🤔**I**ntroversive at times.
 - :yum:**D**aydreamer always.
