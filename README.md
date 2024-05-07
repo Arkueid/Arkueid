@@ -26,7 +26,7 @@ I'm Arkueid (inspired by [Arcueid Brunestud](https://en.wikipedia.org/wiki/Tsuki
 - :smile_cat:**U**ser of github.
 - :sparkles:**E**nthusiastic about coding.
 - 🤔**I**ntroversive at times.
-- :yum:**D**aydreamer always.
+- :yum:**D**aydreaming always.
 
 
 
