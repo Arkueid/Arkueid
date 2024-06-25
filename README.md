@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="#">
-  <img align="right" style="display: inline-block; margin: 5px" src="https://github-stats.ubrong.com/api?username=arkueid&show_icons=true&theme=default" />   
+  <img style="display: inline-block; margin: 5px" src="https://github-stats.ubrong.com/api?username=arkueid&show_icons=true&theme=default" />   
 </a>
 
 
