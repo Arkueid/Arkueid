@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#">
-  <img style="display: inline-block; margin: 5px" src="https://github-stats.ubrong.com/api?username=arkueid&show_icons=true&theme=default" />   
-</a>
-
 
 
 
