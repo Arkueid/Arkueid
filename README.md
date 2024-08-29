@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Coding for fun, and maybe for waifus... okay, definitely for waifus sometimes. 😅 Just a dev trying to mix work with a bit of anime obsession.
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%EF%BD%A2%E6%99%AE%E9%80%9A%EF%BD%A3%E3%81%A8%E3%81%8B%EF%BD%A2%E3%81%82%E3%81%9F%E3%82%8A%E3%81%BE%E3%81%88%EF%BD%A3%E3%81%A3%E3%81%A6%E3%81%AA%E3%82%93%E3%81%A0%E3%82%8D%E3%81%86&author=%E6%A0%9E%20-%20MyGO!!!!!)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 
