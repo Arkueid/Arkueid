@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Coding for fun, and maybe for waifus... okay, definitely for waifus sometimes. 😅 Just a dev trying to mix work with a bit of anime obsession.
+Coding for fun, and maybe for waifus... okay, definitely for waifus sometimes. 😅 Just a student trying to mix work with a bit of anime obsession.
 
 
 
