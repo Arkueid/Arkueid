@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 🔥「大変だなって思ったら、ちょっとね休憩してみるのもありだと思うよ」☀️
 
-ひのめを見ぬ日も、今日も。
-
 Coding for fun, and maybe for waifus... okay, definitely for waifus sometimes. 😅Trying to mix work with a bit of anime obsession.
 
 
