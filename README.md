@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔥「大変だなって思ったら、ちょっとね休憩してみるのもありだと思うよ」☀️
+
 Coding for fun, and maybe for waifus... okay, definitely for waifus sometimes. 😅Trying to mix work with a bit of anime obsession.
 
 
